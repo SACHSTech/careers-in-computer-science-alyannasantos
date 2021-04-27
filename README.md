@@ -151,12 +151,12 @@ Five Professional Development Courses
 ### Job Description
 The Senior Software Engineer will focus on front and back end technologies and play a lead role in developing/maintaining/supporting critical applications and products of Black Book. This individual will collaborate with other software engineers, product management, and data scientists to develop various mission critical applications. They must take initiative and reach out to other team members when assistance is needed. This position requires the need to be extremely organized, highly collaborative, and results driven. They should be comfortable working in a high velocity agile environment with a tight working relationship between business and technology teams.
 ### Responsibilities
-* Play a key role in analysis and architecture for application ecosystems within the department.
-* Design, code, develop and support web applications.
-* Consistently demonstrate ownership and on time delivery.
-* Decouple monolithic apps into scalable microservices that is driven by performance and efficacy.
-* Follow Industry standard best practices with focus on performance, capability, reusability, and maintainability.
-* Write unit testing and integration testing.
+* Play a key role in analysis and architecture for application ecosystems within the department
+* Design, code, develop and support web applications
+* Consistently demonstrate ownership and on time delivery
+* Decouple monolithic apps into scalable microservices that is driven by performance and efficacy
+* Follow Industry standard best practices with focus on performance, capability, reusability, and maintainability
+* Write unit testing and integration testing
 * Collaborate effectively with team members and clients.
 * Rapidly execute on solutions when problems or challenges have been identified
 * Stay current with the newest technologies
