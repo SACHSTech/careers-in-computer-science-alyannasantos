@@ -104,7 +104,40 @@
 * How to conduct effective project meetings
 * Some “key” project management principles
 #### Microsoft Project - Introduction
+##### You will learn...
+* Understand the basic purpose and operation of the software and work with windows, Ribbon tabs and buttons, and views
+* Create a new project
+* Create, edit, and outline a task list and establish dependencies by linking tasks
+* Add and assign resources to a project, work with project calendars, and enter project costs, such as standard, variable, and fixed costs
+* Apply page setup options, create headers and footers, insert page breaks, and preview and print project information
+* Apply task type settings, modify fixed tasks, set task constraints, and define and format the critical path
+* Apply preset and custom contours, edit resource assignments, identify and resolve resource overallocations, and set and modify a baseline
+* Track the progress of a project, update tasks and the schedule, and compare baseline and actual data
+* Sort, filter, and group views
+* Format views and format the Gantt Chart
 #### Microsoft Project - Advanced
+##### You will learn...
+* Customize Microsoft Project elements including tables, views, and reports
+* Use sample templates, create custom templates, and use the Organizer to manage project elements
+* Work with progress lines, Earned Value tables, and Visual Reports
+* Use and create Import/Export maps
+* Create master projects, insert and work with subprojects, and create links to external tasks
+* Assign tasks to resources from a resource pool, modify resource information, and update the resource pool
+* Work with rollup task bars, hyperlinks, custom WBS codes, and macros
 ### One-day Workshops
-* Project Management Overview
-* Project Management for Non-Project Managers
+#### Project Management Overview
+##### You will learn...
+* How project managers think
+* What are projects and what is project management
+* Project Management tools and process that can be used in all types of projects
+* How to relate competently to the project sponsor
+* What’s involved in the various stages of the project management life cycle as follows:
+#### Project Management for Non-Project Managers
+##### You will learn...
+* Use essential project management principles
+* Identify and relate to project stakeholders
+* Conduct effective project meetings
+* Construct and use the work breakdown structure, Gantt, and Critical Path
+* Set up effective project risk, project issue, and project change management processes
+* Provide effective reports to managers and other stakeholders
+* Close out projects effectively and present the final report
