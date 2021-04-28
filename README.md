@@ -70,3 +70,41 @@
 * Five Professional Development Courses
 ## Length to Complete Course
 * It will take 5 years to complete a Software Engineering degree
+# Experiential Learning
+## Leadership Training: Beyond the Box
+#### You will...
+* Be an inspiration to others
+* Creatively approach problems
+* Develop listening and communication skills 
+* Engender trust
+* Adapt to change
+* Have a clear understanding about the vision and values of the organization
+* Foster teamwork
+* Brainstorm efficiently
+* Empower others to take initiative
+#### It is guaranteed that...
+* You will bring out the best in colleagues by listening, being open and encouraging
+* You will communicate with passion and engender trust
+* You will seek new possibilites by being creative in the brainstorming process
+* Adapt to change in circumstances through confidence 
+## Ontario Training Project Management Workshops
+### Two-day Workshops
+#### Project Management: Effective Principles
+###### You will learn... 
+* How project managers think
+* About projects and project management
+* Project Management tools and process used in all sorts of projects
+* How to relate competently to the project sponsor
+* How to properly define a project by completing a project charter, identifying roles and responsibilities  and taking into accounts the issues and concerns of project stakeholders
+* How to use such project management tools as the workbreakdown structure, network diagram, Gantt, and Critical Path as needed
+* How to set up effective project risk, project change and project issue management processes
+* How to provide effective reports to managers and other stakeholders as needed
+* How to use a variety of new tools to get input and help the team become more effective
+* How to close projects properly, including presenting the final report
+* How to conduct effective project meetings
+* Some “key” project management principles
+#### Microsoft Project - Introduction
+#### Microsoft Project - Advanced
+### One-day Workshops
+* Project Management Overview
+* Project Management for Non-Project Managers
