@@ -34,3 +34,39 @@
 * Exceptional leadership and organization
 ## Salary Range
 * $65 500 - $170 000 CAD/year
+# Standard Education
+## University
+* University of Waterloo offers a Software Engineering Undergraduate program
+## Entrance Requirements
+* Advanced Functions (minimum grade of 70%)
+* Calculus and Vectors (minimum grade of 70%)
+* Chemistry (minimum grade of 70%)
+* Physics (minimum grade of 70%)
+* English (ENG4U) (minimum grade of 70%)
+* Admission averages: Individual selection from the mid-90s
+## First Year Program Choices for Software Engineering
+* CS 137 - Programming Principles
+* ECE 105 - Classical Mechanics
+* MATH 115 - Linear Algebra for Engineering
+* MATH 117 - Calculus 1 for Engineering 
+* MATH 135 - Algebra for Honours Mathematics
+* SE 101 - Introductions to Methods of Software Engineering
+* CS 138 - Introduction to Data Abstraction and Implementation
+* ECE 106 - Electricity and Magnetism
+* ECE 124 - Digital Circuits and Systems
+* ECE 140 - Linear Circuits
+* MATH 119 - Calculus 2 for Engineering
+* SE 102 - Seminar
+## Other Requirements
+* 10 additional electives
+  * 3 Advanced Technical electives
+  * 2 Science Course electives
+  * 3 Linkage electives
+  * 2 electives from Advanced Technical, Science or Linkage OR any other 0.5 credit course(s) 
+* Must take one elective in third year
+* Linkage elective, taken in the 2A term, must be completed with a final grade of at least 60% to enroll in the 3A term
+* Communication Skills Requirements
+* Three Work-term Reports
+* Five Professional Development Courses
+## Length to Complete Course
+* It will take 5 years to complete a Software Engineering degree
