@@ -105,7 +105,7 @@
 * You will seek new possibilites by being creative in the brainstorming process
 * Adapt to change in circumstances through confidence
 
-## Ontario Training Project Management Workshops
+## Ontario Training Network: Project Management Workshops
 
 ### Two-day Workshops
 
@@ -256,3 +256,6 @@ Do you thrive in fast-paced technical environments and have a strong attention t
 * 5+ years industry experience as a Software Engineer or a Software developer with experience as a Senior Engineer leading teams in an agile environment
 * Bachelor’s Degree in Computer Science or related field or equivalent experience
 * Computer Science fundamentals in object-oriented design, data structures and algorithm design, and complexity analysis
+
+
+# Works Cited
