@@ -286,7 +286,9 @@ Job Listing: [Amazon Job Listing](https://ca.indeed.com/viewjob?jk=56d5d71424b8a
 
 # Works Cited
 “Faculty of Engineering.” The Undergraduate Calendar, 
->[ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering](http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering)
+>
+[ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering]
+(http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering)
 
 Google Search, Google, 
 >
