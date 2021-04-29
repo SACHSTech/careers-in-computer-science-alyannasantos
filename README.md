@@ -9,10 +9,12 @@
 | [Real Jobs]()                |
 ---
 # The Basics
+
 ## Description of Career
 * Leader to software engineers and software developers
 * Produce, test and debug codes of various programs
 * Direct and supervise software development projects
+
 ## Responsibilities
 * Develop applications and tools by clean and efficient coding
 * Identify, prioritize and execute tasks in software development lifecycle
@@ -22,8 +24,10 @@
 * Perform verification and validation testing
 * Review and debug codes of programs
 * Automating tasks through scripting and other tools
+
 ## Required Education
 * Post Graduate degree in Software Engineering, Computer Science or related fields
+
 ## Technical & Non-technical Skills
 * Experience in scripting, project management, software development
 * Experience working with all operating systems (i.e. Windows, Mac OS, Linux)
@@ -32,11 +36,16 @@
 * Experience in automated testing frameworks and system monitoring tools (i.e. New Relic)
 * Ability to make quick decisions and work independently
 * Exceptional leadership and organization
+
 ## Salary Range
 * $65 500 - $170 000 CAD/year
+
+
 # Standard Education
+
 ## University
 * University of Waterloo offers a Software Engineering Undergraduate program
+
 ## Entrance Requirements
 * Advanced Functions (minimum grade of 70%)
 * Calculus and Vectors (minimum grade of 70%)
@@ -44,6 +53,7 @@
 * Physics (minimum grade of 70%)
 * English (ENG4U) (minimum grade of 70%)
 * Admission averages: Individual selection from the mid-90s
+
 ## First Year Program Choices for Software Engineering
 * CS 137 - Programming Principles
 * ECE 105 - Classical Mechanics
@@ -57,6 +67,7 @@
 * ECE 140 - Linear Circuits
 * MATH 119 - Calculus 2 for Engineering
 * SE 102 - Seminar
+
 ## Other Requirements
 * 10 additional electives
   * 3 Advanced Technical electives
@@ -68,10 +79,15 @@
 * Communication Skills Requirements
 * Three Work-term Reports
 * Five Professional Development Courses
+
 ## Length to Complete Course
 * It will take 5 years to complete a Software Engineering degree
+
+
 # Experiential Learning
+
 ## Leadership Training: Beyond the Box
+
 #### You will...
 * Be an inspiration to others
 * Creatively approach problems
@@ -82,13 +98,17 @@
 * Foster teamwork
 * Brainstorm efficiently
 * Empower others to take initiative
+
 #### It is guaranteed that...
 * You will bring out the best in colleagues by listening, being open and encouraging
 * You will communicate with passion and engender trust
 * You will seek new possibilites by being creative in the brainstorming process
-* Adapt to change in circumstances through confidence 
+* Adapt to change in circumstances through confidence
+
 ## Ontario Training Project Management Workshops
+
 ### Two-day Workshops
+
 #### Project Management: Effective Principles
 ###### You will learn... 
 * How project managers think
@@ -103,6 +123,7 @@
 * How to close projects properly, including presenting the final report
 * How to conduct effective project meetings
 * Some “key” project management principles
+
 #### Microsoft Project - Introduction
 ##### You will learn...
 * Understand the basic purpose and operation of the software and work with windows, Ribbon tabs and buttons, and views
@@ -115,6 +136,7 @@
 * Track the progress of a project, update tasks and the schedule, and compare baseline and actual data
 * Sort, filter, and group views
 * Format views and format the Gantt Chart
+
 #### Microsoft Project - Advanced
 ##### You will learn...
 * Customize Microsoft Project elements including tables, views, and reports
@@ -124,14 +146,17 @@
 * Create master projects, insert and work with subprojects, and create links to external tasks
 * Assign tasks to resources from a resource pool, modify resource information, and update the resource pool
 * Work with rollup task bars, hyperlinks, custom WBS codes, and macros
+
 ### One-day Workshops
+
 #### Project Management Overview
 ##### You will learn...
 * How project managers think
 * What are projects and what is project management
 * Project Management tools and process that can be used in all types of projects
 * How to relate competently to the project sponsor
-* What’s involved in the various stages of the project management life cycle as follows:
+* What’s involved in the various stages of the project management life cycle
+
 #### Project Management for Non-Project Managers
 ##### You will learn...
 * Use essential project management principles
@@ -150,23 +175,55 @@
 * Software Development Training Certifications Training
 ### Training Description
 "Our software development and software engineering training courses will give your team the skills spanning the full Software Development Life Cycle, such as requirements documentation, testing, and User Experience (UX) design. With a complete curriculum of courses for ones in design roles, technical roles, project management, and architectural roles, your team can learn to manage and deliver software projects on time and within budget."
+
+
 # Real Jobs
-## Entry Level Position
-* 
-### Job Description & Required Experience and Skills
+
+## Entry Level Position - FDM Group
+* $41 797 CAD/year
+* Located in Toronto, ON
+
+### Job Description
+Do you thrive in fast-paced technical environments and have a strong attention to detail? Are you eager to have a career where you are encouraged to meet your potential and have the opportunity to work for a prestigious company with an impressive global presence?
+* FDM is currently seeking a number of ambitious and driven candidates with the aptitude for IT/Tech to work as FDM consultants with our top clients, many of which are leading companies in the banking and financial services industry.
+* FDM creates and inspires exciting careers that shape our digital future. Through our Careers Program, we recruit and train those aspiring to become IT and business professionals before deploying them on to client sites worldwide. With centres across Europe, North America and APAC, FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning FTSE 250 employer.
+
+### Required Experience
+* 4 year degree (preferably in Computer Science, IT, Engineering, Mathematics, or similar)
+* A strong aptitude in IT and the interest and drive to expand your IT skill set
+* Excellent communication and interpersonal skills
+* A problem solver with a keen eye for detail
+* A desire to work at a large financial firm and ability to increase your financial knowledge
+* Able to engage yourself in a project and enjoy the challenges and processes involved
+* Flexible, eager, ambitious, and adaptable to change
+* Able to commit to work for FDM for a minimum of two years working as an FDM consultant following the training period
+* Eligible to work in Canada
+
+### Skills
+* Knowledge of operating systems (Microsoft, UNIX, Linux)
+* Exposure to one of the object-oriented programming languages (Java, C, C++, C#)
+* Foundation in Excel
+* Exposure to SQL
+* Project Management Methodologies: Agile (Scrum), Test Driven Development, Waterfall
+* Strong knowledge of software development life cycle
+* Passion for technology
 
 
 ## Mid Level Position - Coursera
 * $81 000 - $180 000 CAD/year
 * Located in Toronto, ON
+
 ### Job Description
 "Coursera was founded by two computer science professors at Stanford with a vision of providing life-transforming learning experiences to anyone, anywhere. It is the world’s largest online learning platform for higher education. 200 of the world’s top universities and industry educators partner with Coursera to offer courses, Specializations, and degrees that empower over 48 million learners around the world to achieve their career goals. Over 2,200 companies use the company’s enterprise platform Coursera for Business to transform their talent. Coursera is backed by leading venture capital firms such as Kleiner Perkins Caufield & Byers, New Enterprise Associates, GSV Capital, International Finance Corporation, Laureate Education Inc., and Learn Capital."
 
 "The Content Platform team works on the fundamental building blocks for Coursera's course experience. This experience is 2-sided: learners want to learn by engaging actively with material and in many cases, earn a credential supported by rigorous and robust assessments, while content-creation partners want to author and grade content efficiently and effectively, with tools and data providing a feedback loop that allows them to create high-quality content. As a platform-focused team, we seek impact by building a customizable experience that can be used for a wide range of users."
-### Required Experience and Skills
+
+### Required Experience
 * Design and implement scalable systems and infrastructures
 * Measure your work thoroughly, analyze results, and generate hypotheses to drive new product changes through A/B testing
 * Setup monitoring and testing of your APIs and services to better understand real time health of your products
+
+### Skills
 * 3+ years of experience working in a relevant software engineering role
 * Expertise in designing highly-scalable and performant micro-services and storage layers using common frameworks, languages, and infrastructure (e.g. Java, Play/Scala, MySql, Cassandra, Solr, Kafka)
 * Comfortable working in a fast-moving team environment (we deploy many times a day!)
@@ -176,6 +233,7 @@
 ## Senior Level Position - Amazon Opterations Technology 
 * $122 300 CAD/year
 * Located in Toronto, ON
+
 ### Job Description 
 "Amazon’s Operations Technology teams are the technical engines that support Amazon’s mission of being Earth’s most customer-centric company. We build the software and services that touch every Amazon customer globally and innovate solutions for logistics, supply chain optimization, and transportation."
 #### As a senior member of our engineering team, you will own:
@@ -183,6 +241,7 @@
 * You will be solving complex problems, and working on difficult challenges in software engineering as the scale and suite of our services grow
 * You will work with key stakeholders in product management and executive teams to define strategy and requirements
 * You will lead cross functional development of new technology from design to deployment
+
 ### Required Experience and Skills
 * 4+ years of professional software development experience
 * 3+ years of programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
