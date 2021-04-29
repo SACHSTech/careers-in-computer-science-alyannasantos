@@ -228,7 +228,7 @@ Do you thrive in fast-paced technical environments and have a strong attention t
 * Strong knowledge of software development life cycle
 * Passion for technology
 
-Job listing: https://www.glassdoor.ca/Job/entry-level-software-engineer-jobs-SRCH_KO0,29.htm
+Job listing: [FDM Group Job Listing](https://www.glassdoor.ca/Job/entry-level-software-engineer-jobs-SRCH_KO0,29.htm)
 
 ## Mid Level Position - Coursera
 
@@ -253,6 +253,7 @@ Job listing: https://www.glassdoor.ca/Job/entry-level-software-engineer-jobs-SRC
 * Comfortable working in a fast-moving team environment (we deploy many times a day!)
 * Data-driven and strongly motivated by success and learnings through experiments and metrics analysis
 
+Job Listing: [Coursera Job Listing](https://www.google.com/search?q=senior+software+engineer+jobs&rlz=1C5CHFA_enCA894CA894&oq=senior+software+engineer+jobs&aqs=chrome..69i57j69i59l2j0i402j0j69i60l3.7685j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjpuc_ClaLwAhUGbc0KHeJyDjQQkd0GMAB6BAgGEAE#fpstate=tldetail&htivrt=jobs&htiq=senior+software+engineer+jobs&htidocid=vWCtS_YIm04HpNcvAAAAAA%3D%3D)
 
 ## Senior Level Position - Amazon Operations Technology
 
@@ -281,6 +282,7 @@ Job listing: https://www.glassdoor.ca/Job/entry-level-software-engineer-jobs-SRC
 * Bachelor’s Degree in Computer Science or related field or equivalent experience
 * Computer Science fundamentals in object-oriented design, data structures and algorithm design, and complexity analysis
 
+Job Listing: [Amazon Job Listing](https://ca.indeed.com/viewjob?jk=56d5d71424b8adee&tk=1f462v688t3oo800&from=serp&vjs=3)
 
 # Works Cited
 “Faculty of Engineering.” The Undergraduate Calendar, 
