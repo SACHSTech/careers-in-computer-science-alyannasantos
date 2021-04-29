@@ -8,20 +8,12 @@
 | [Experiential Learning]()    |
 | [Real Jobs]()                |
 
-![alt text][image6]
-
-
-[image1]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/sseJobDescription.jpg "Senior Software Engineer"
-[image2]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/sseJobDescription2.jpeg "Senior Software Engineer"
-[image3]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/uwLogo.png "University of Waterloo"
-[image4]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/seWaterloo.jpeg "University of Waterloo Software Engineering"
-[image5]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/beyondthebox.gif "Beyond the Box"
-[image6]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/ontariotraining.png "Ontario Training"
-[image7]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/learningtree.jpeg "Learning Tree"
-
+![alt text](Images/sseJobDescription.jpg "Senior Software Engineer")
 
 ---
 # The Basics
+
+![alt text](Images/sseJobDescription2.jpeg)
 
 ## Description of Career
 * Leader to software engineers and software developers
@@ -58,6 +50,8 @@
 
 ## University
 * University of Waterloo offers a Software Engineering Undergraduate program
+
+![alt text](Images/uwLogo.png)
 
 ## Entrance Requirements
 * Advanced Functions (minimum grade of 70%)
@@ -96,10 +90,13 @@
 ## Length to Complete Course
 * It will take 5 years to complete a Software Engineering degree
 
+![alt text](Images/seWaterloo.jpeg)
 
 # Experiential Learning
 
 ## Leadership Training: Beyond the Box
+
+![alt text](Images/beyondthebox.gif)
 
 #### You will...
 * Be an inspiration to others
@@ -119,6 +116,8 @@
 * Adapt to change in circumstances through confidence
 
 ## Ontario Training Network: Project Management Workshops
+
+![alt text](Images/ontariotraining.png)
 
 ### Two-day Workshops
 
@@ -181,6 +180,8 @@
 * Close out projects effectively and present the final report
 
 ## Learning Tree International: Software Development Training
+
+![alt text](Images/learningtree.jpeg)
 
 ### Types of Training Include...
 * Software Development Training for Design Roles
@@ -246,7 +247,7 @@ Do you thrive in fast-paced technical environments and have a strong attention t
 * Data-driven and strongly motivated by success and learnings through experiments and metrics analysis
 
 
-## Senior Level Position - Amazon Opterations Technology 
+## Senior Level Position - Amazon Operations Technology 
 * $122 300 CAD/year
 * Located in Toronto, ON
 
