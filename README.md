@@ -150,3 +150,47 @@
 * Software Development Training Certifications Training
 ### Training Description
 "Our software development and software engineering training courses will give your team the skills spanning the full Software Development Life Cycle, such as requirements documentation, testing, and User Experience (UX) design. With a complete curriculum of courses for ones in design roles, technical roles, project management, and architectural roles, your team can learn to manage and deliver software projects on time and within budget."
+# Real Jobs
+## Entry Level Position
+* 
+### Job Description & Required Experience and Skills
+
+
+## Mid Level Position - Coursera
+* $81 000 - $180 000 CAD/year
+* Located in Toronto, ON
+### Job Description
+"Coursera was founded by two computer science professors at Stanford with a vision of providing life-transforming learning experiences to anyone, anywhere. It is the world’s largest online learning platform for higher education. 200 of the world’s top universities and industry educators partner with Coursera to offer courses, Specializations, and degrees that empower over 48 million learners around the world to achieve their career goals. Over 2,200 companies use the company’s enterprise platform Coursera for Business to transform their talent. Coursera is backed by leading venture capital firms such as Kleiner Perkins Caufield & Byers, New Enterprise Associates, GSV Capital, International Finance Corporation, Laureate Education Inc., and Learn Capital."
+
+"The Content Platform team works on the fundamental building blocks for Coursera's course experience. This experience is 2-sided: learners want to learn by engaging actively with material and in many cases, earn a credential supported by rigorous and robust assessments, while content-creation partners want to author and grade content efficiently and effectively, with tools and data providing a feedback loop that allows them to create high-quality content. As a platform-focused team, we seek impact by building a customizable experience that can be used for a wide range of users."
+### Required Experience and Skills
+* Design and implement scalable systems and infrastructures
+* Measure your work thoroughly, analyze results, and generate hypotheses to drive new product changes through A/B testing
+* Setup monitoring and testing of your APIs and services to better understand real time health of your products
+* 3+ years of experience working in a relevant software engineering role
+* Expertise in designing highly-scalable and performant micro-services and storage layers using common frameworks, languages, and infrastructure (e.g. Java, Play/Scala, MySql, Cassandra, Solr, Kafka)
+* Comfortable working in a fast-moving team environment (we deploy many times a day!)
+* Data-driven and strongly motivated by success and learnings through experiments and metrics analysis
+
+
+## Senior Level Position - Amazon Opterations Technology 
+* $122 300 CAD/year
+* Located in Toronto, ON
+### Job Description 
+"Amazon’s Operations Technology teams are the technical engines that support Amazon’s mission of being Earth’s most customer-centric company. We build the software and services that touch every Amazon customer globally and innovate solutions for logistics, supply chain optimization, and transportation."
+#### As a senior member of our engineering team, you will own:
+* The full stack technology and drive the technical direction
+* You will be solving complex problems, and working on difficult challenges in software engineering as the scale and suite of our services grow
+* You will work with key stakeholders in product management and executive teams to define strategy and requirements
+* You will lead cross functional development of new technology from design to deployment
+### Required Experience and Skills
+* 4+ years of professional software development experience
+* 3+ years of programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+* 2+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+* Bachelor's degree in Computer Science or 8+ years of equivalent professional or military experience
+* 4+ years of professional software development experience
+* 3+ years of programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+* 2+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+* 5+ years industry experience as a Software Engineer or a Software developer with experience as a Senior Engineer leading teams in an agile environment
+* Bachelor’s Degree in Computer Science or related field or equivalent experience
+* Computer Science fundamentals in object-oriented design, data structures and algorithm design, and complexity analysis
