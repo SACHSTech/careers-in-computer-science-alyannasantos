@@ -7,6 +7,19 @@
 | [Standard Education]()       |
 | [Experiential Learning]()    |
 | [Real Jobs]()                |
+
+![alt text][image1]
+
+
+[image1]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/sseJobDescription.jpg "Senior Software Engineer"
+[image2]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/sseJobDescription2.jpeg "Senior Software Engineer"
+[image3]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/uwLogo.png "University of Waterloo"
+[image4]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/seWaterloo.jpeg "University of Waterloo Software Engineering"
+[image5]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/beyondthebox.gif "Beyond the Box"
+[image6]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/ontariotraining.png "Ontario Training"
+[image7]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/learningtree.jpeg "Learning Tree"
+
+
 ---
 # The Basics
 
