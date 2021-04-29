@@ -8,7 +8,7 @@
 | [Experiential Learning]()    |
 | [Real Jobs]()                |
 
-![alt text][image1]
+![alt text][image6]
 
 
 [image1]: https://github.com/SACHSTech/careers-in-computer-science-alyannasantos/Images/sseJobDescription.jpg "Senior Software Engineer"
