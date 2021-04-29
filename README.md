@@ -197,6 +197,9 @@
 # Real Jobs
 
 ## Entry Level Position - FDM Group
+
+![alt text](Images/fdm.png)
+
 * $41 797 CAD/year
 * Located in Toronto, ON
 
@@ -225,8 +228,12 @@ Do you thrive in fast-paced technical environments and have a strong attention t
 * Strong knowledge of software development life cycle
 * Passion for technology
 
+Job listing: https://www.glassdoor.ca/Job/entry-level-software-engineer-jobs-SRCH_KO0,29.htm
 
 ## Mid Level Position - Coursera
+
+![alt text](Images/coursera.png)
+
 * $81 000 - $180 000 CAD/year
 * Located in Toronto, ON
 
@@ -247,7 +254,10 @@ Do you thrive in fast-paced technical environments and have a strong attention t
 * Data-driven and strongly motivated by success and learnings through experiments and metrics analysis
 
 
-## Senior Level Position - Amazon Operations Technology 
+## Senior Level Position - Amazon Operations Technology
+
+![alt text](Images/amazon.png)
+
 * $122 300 CAD/year
 * Located in Toronto, ON
 
@@ -273,3 +283,71 @@ Do you thrive in fast-paced technical environments and have a strong attention t
 
 
 # Works Cited
+“Faculty of Engineering.” The Undergraduate Calendar, 
+[ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering](http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering)
+
+Google Search, Google, 
+[www.google.com/search?q=amazon%2Blogo&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiF2Z3DrqLwAhXFXM0KHW0_B_AQ_AUoAXoECAEQAw&biw=1001&bih=713#imgrc=XEJ1Bo66DeGrHM.](https://www.google.com/search?q=amazon+logo&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiF2Z3DrqLwAhXFXM0KHW0_B_AQ_AUoAXoECAEQAw&biw=1001&bih=713#imgrc=XEJ1Bo66DeGrHM)
+
+Google Search, Google, 
+[www.google.com/search?q=beyond%2Bthe%2Bbox%2Bleadership&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwizgcyaoKLwAhUHG80KHWT6Ae4Q_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=26284VLhvnmK1M.](https://www.google.com/search?q=beyond+the+box+leadership&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwizgcyaoKLwAhUHG80KHWT6Ae4Q_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=26284VLhvnmK1M)
+
+Google Search, Google, 
+[www.google.com/search?q=coursera&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJyYvurqLwAhVaCM0KHfDwA8cQ_AUoAnoECAEQBA&biw=516&bih=656#imgrc=a6T51jexe-PfIM.](https://www.google.com/search?q=coursera&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJyYvurqLwAhVaCM0KHfDwA8cQ_AUoAnoECAEQBA&biw=516&bih=656#imgrc=a6T51jexe-PfIM)
+
+Google Search, Google, 
+[www.google.com/search?q=fdm%2Bgroup&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjT8P-Sr6LwAhVdRjABHVmmDB0Q_AUoA3oECAEQBQ&biw=516&bih=713#imgrc=jJCzpNMMKK_FlM.](https://www.google.com/search?q=fdm+group&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjT8P-Sr6LwAhVdRjABHVmmDB0Q_AUoA3oECAEQBQ&biw=516&bih=713#imgrc=jJCzpNMMKK_FlM)
+
+Google Search, Google, 
+[www.google.com/search?q=learning%2Btree%2Binternational&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiroZP9n6LwAhVSXM0KHXSyAZgQ_AUoA3oECAEQBQ&biw=1058&bih=713#imgrc=_EwT9SkkjmFJ_M.](https://www.google.com/search?q=learning+tree+international&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiroZP9n6LwAhVSXM0KHXSyAZgQ_AUoA3oECAEQBQ&biw=1058&bih=713#imgrc=_EwT9SkkjmFJ_M)
+
+Google Search, Google, 
+[www.google.com/search?q=ontario%2Btraining%2Bmanagement&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW7aeToKLwAhUKH80KHS7gD5EQ_AUoAnoECAEQBA&biw=1058&bih=713#imgrc=0_k5m9-h2GnsqM.](https://www.google.com/search?q=ontario+training+management&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW7aeToKLwAhUKH80KHS7gD5EQ_AUoAnoECAEQBA&biw=1058&bih=713#imgrc=0_k5m9-h2GnsqM)
+
+Google Search, Google, 
+[www.google.com/search?q=senior%2Bsoftware%2Bengineer&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjIk8mloKLwAhVaGs0KHSxsBGMQ_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=JE-nVCAxEsyw5M.](https://www.google.com/search?q=senior+software+engineer&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjIk8mloKLwAhVaGs0KHSxsBGMQ_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=JE-nVCAxEsyw5M)
+
+Google Search, Google, 
+[www.google.com/search?q=senior%2Bsoftware%2Bengineer&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjIk8mloKLwAhVaGs0KHSxsBGMQ_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=vNbONnQyS1BMgM.](https://www.google.com/search?q=senior+software+engineer&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjIk8mloKLwAhVaGs0KHSxsBGMQ_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=vNbONnQyS1BMgM)
+
+Google Search, Google, 
+[www.google.com/search?q=uwaterloo%2Blogo&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0g9u9oKLwAhUMG80KHQogCNUQ_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=RFk7JTNKWpcXoM.](https://www.google.com/search?q=uwaterloo+logo&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0g9u9oKLwAhUMG80KHQogCNUQ_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=RFk7JTNKWpcXoM)
+
+Google Search, Google, 
+[www.google.com/search?q=uwaterloo%2Bsoftware%2Bengineering&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSz4-zoKLwAhWBZ80KHcIuDD4Q_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=MNK6ktnRZ_41bM.](https://www.google.com/search?q=uwaterloo+software+engineering&safe=strict&rlz=1C5CHFA_enCA894CA894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSz4-zoKLwAhWBZ80KHcIuDD4Q_AUoAXoECAEQAw&biw=1058&bih=713#imgrc=MNK6ktnRZ_41bM)
+
+“Home.” Ontario Training Network, 
+[ontariotraining.net/microsoft-office/microsoft-project-advanced/.](https://ontariotraining.net/microsoft-office/microsoft-project-advanced/)
+
+“Home.” Ontario Training Network, 
+[ontariotraining.net/microsoft-office/microsoft-project-introduction/.](https://ontariotraining.net/microsoft-office/microsoft-project-introduction/)
+
+“Home.” Ontario Training Network, 
+[ontariotraining.net/project-management/.](https://ontariotraining.net/project-management/)
+
+“Home.” Ontario Training Network, 
+[ontariotraining.net/project-management/Project%20Management%20Overview/.](https://ontariotraining.net/project-management/Project%20Management%20Overview/)
+
+“Home.” Ontario Training Network, 
+[ontariotraining.net/project-management/project-management-effective-principles/.](https://ontariotraining.net/project-management/project-management-effective-principles/)
+
+“Home.” Ontario Training Network, 
+[ontariotraining.net/project-management/project-management-for-non-project-managers/.](https://ontariotraining.net/project-management/project-management-for-non-project-managers/)
+
+Interactive, EDge. “Software Engineering - University of Waterloo - StudyinCanada.com!” 
+StudyinCanada.com, 
+[www.studyincanada.com/Programs/56273/Software-Engineering.](https://www.studyincanada.com/Programs/56273/Software-Engineering)
+
+“Leadership Training Workshops - Beyond the Box, Toronto, Ottawa & Across Canada.” Beyond 
+the Box, 31 Jan. 2017, 
+[beyondthebox.ca/workshops/leadership-training/.](https://beyondthebox.ca/workshops/leadership-training/)
+
+Learning Tree International. “Software Development Training: Software Engineering Courses.” Learning Tree International, [www.learningtree.ca/training-directory/software-development-training/.](https://www.learningtree.ca/training-directory/software-development-training/)
+
+Noor. “Senior Software Engineer Job Description.” Resources, 2 Apr. 2018, [glider.ai/resources/job-descriptions/software-information-technology/senior-software-engineer-job-descriptions.](https://glider.ai/resources/job-descriptions/software-information-technology/senior-software-engineer-job-descriptions)
+
+“Senior Software Engineer Annual Salary in Ontario ($113,013 Avg: Apr 2021).” ZipRecruiter, 
+[www.ziprecruiter.com/Salaries/Senior-Software-Engineer-Salary--in-Ontario.](https://www.ziprecruiter.com/Salaries/Senior-Software-Engineer-Salary--in-Ontario)
+
+“Software Engineering.” Undergraduate Programs, 26 Apr. 2021, 
+[uwaterloo.ca/future-students/programs/software-engineering.](https://uwaterloo.ca/future-students/programs/software-engineering)
